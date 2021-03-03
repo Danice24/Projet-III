@@ -1,0 +1,6 @@
+Installez TeamViewer sur votre ordinateur de bureau,
+créez un compte et configurez l’accès facile à partir de l’onglet Contrôle à distance.
+l'ID et le mot de passe  peuvent  être modifié à tout moment. 
+Avec ses informations vous pouvez autoriser un contrôle à distance de votre ordinateur par un partenaire.
+Grâce à TeamViewer on peut facilement transférer des fichiers de n’importe quelle taille de votre ordinateur 
+distant vers votre ordinateur personnel avec l'option "Transfert de fichier" et tenez vous bien en toute sécurité.
